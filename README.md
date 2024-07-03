@@ -3,7 +3,7 @@ files for extracting data from gps text files
 
 #### 2023 October 10th
 
-Primarily used for splitting nd extracting data from log files created by https://github.com/barbeau/gpstest
+Primarily used for splitting and extracting data from log files created by https://github.com/barbeau/gpstest
 
 I don't expect these files to be completely optimized, but they should be functional. 
 
